@@ -1,0 +1,2 @@
+CREATE DATABASE formulary_optimization_and_adherence_assistant_mvp;
+USE formulary_optimization_and_adherence_assistant_mvp;
